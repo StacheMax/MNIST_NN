@@ -1,4 +1,3 @@
-random
 numpy
 seaborn
 tensorflow
