@@ -6,7 +6,6 @@ matplotlib
 ipywidgets
 keras
 IPython
-mpl_toolkits
 sklearn
 ipywidgets
 voila
